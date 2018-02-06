@@ -1,3 +1,12 @@
 {
-    "name": "alexfisher/compro_migrate_tools"
+    "name": "alexfisher/compro_migrate_tools",
+    "description": "Drupal 8 Custom Migrate Tools for Commercial Progression.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Rusty Martin",
+            "email": "rusty@commercialprogression.com"
+        }
+    ],
+    "require": {}
 }
