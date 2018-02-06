@@ -8,5 +8,8 @@
             "email": "rusty@commercialprogression.com"
         }
     ],
-    "require": {}
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6.0"
+    }
 }
