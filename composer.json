@@ -1,7 +1,7 @@
 {
     "name": "alexfisher/compro_migrate_tools",
     "description": "Drupal 8 Custom Migrate Tools for Commercial Progression.",
-    "type": "library",
+    "type": "drupal-module",
     "authors": [
         {
             "name": "Rusty Martin",
