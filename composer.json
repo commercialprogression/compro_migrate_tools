@@ -1,5 +1,5 @@
 {
-    "name": "alexfisher/compro_migrate_tools",
+    "name": "commercialprogression/compro_migrate_tools",
     "description": "Drupal 8 Custom Migrate Tools for Commercial Progression.",
     "type": "drupal-module",
     "authors": [
